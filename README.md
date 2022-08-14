@@ -1,10 +1,10 @@
 # OBSsistemi
 ---
 #Konusu
-*Okulumuz bölümleri öğrencilerinin ders kayıtlarının girişini ve takibini yapmak amaçlı kullanılacak bir web uygulaması
+Okulumuz bölümleri öğrencilerinin ders kayıtlarının girişini ve takibini yapmak amaçlı kullanılacak bir web uygulaması
 ---
 #Projenin Amacı
--Bu Proje; Okul Tarafından kullanılması planlanan site ihtiyacı olup,Öğrencilerin Ders kayıtlarını yapabildiği ve Öğretim Görevlisinin Ders kaydını yapan Öğrencileri Liste halinde görüp  silme ,düzenleme,seçme işlemlerini yapabilmesi.
+Bu Proje; Okul Tarafından kullanılması planlanan site ihtiyacı olup,Öğrencilerin Ders kayıtlarını yapabildiği ve Öğretim Görevlisinin Ders kaydını yapan Öğrencileri Liste halinde görüp  silme ,düzenleme,seçme işlemlerini yapabilmesi.
 ---
 #Projenin Genel Özellikler
 1.	Öğrenci ve Öğretim görevlisine ait olan bilgiler ile kendi sayfalarına erişmesi ve işlemlerini rahat ve anlaşılır şekilde yapabilmesi.
